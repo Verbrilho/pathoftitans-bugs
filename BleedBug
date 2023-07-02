@@ -1,0 +1,16 @@
+Expected behavior: When sprinting underwater, the bleed effect raises
+
+Current behavior: When sprinting underwater, the bleed effect lowers
+
+Reproduction steps: Sprint underwater whit a bleed effect on, it will go down insted of going up
+
+
+
+Evidence: got a video
+
+Build: Megalania Teiidae, https://imgur.com/UkLe2he
+
+Game version:0.0.0.25374h4-Shipping
+
+Os: Windows 10
+Aid: 515-122-776
